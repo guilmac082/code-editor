@@ -1,8 +1,6 @@
 # Simple CodeEditor for Vue.js 3
 
-Support for **Vue.js 3**
-
-website: [simple-code-editor.vicuxd.com](https://simple-code-editor.vicuxd.com)
+Support for **Vue.js 3**s
 
 It's easy to use, both support read-only and edit mode with 200+ themes, you can directly use it in the browser or import it via the NPM package.
 
